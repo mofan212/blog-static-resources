@@ -98,7 +98,7 @@
 
 /* 高亮语法修改 */
 mark{ 
-    background-color: white; 
+    background-color: inherit; 
     color: red; 
     font-weight: bold;
     font-size: 15px;
