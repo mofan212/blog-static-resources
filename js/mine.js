@@ -1,5 +1,5 @@
 /* 切换窗口改变窗口标题 */
-var title; // 用于临时存放原来的title内容
+/*var title; // 用于临时存放原来的title内容
 window.onblur = function () {
   title = document.title;
   document.title = "人呢？人呢？😧";
@@ -10,7 +10,7 @@ window.onfocus = function () {
   if (title) {
     document.title = title;
   }
-}
+}*/
 /* 切换窗口改变窗口标题 */
 
 /*设置 checkbox 为只读*/
