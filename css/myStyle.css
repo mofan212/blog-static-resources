@@ -83,7 +83,7 @@
     transparent 75%,
     transparent
   );
-//  border-radius: 2em;
+  /* border-radius: 2em; */
 }
 
 ::-webkit-scrollbar-corner {
@@ -135,3 +135,9 @@ input[type="checkbox"]:checked + label::before {
     background: #fff;
 }
 /* 文章图片增加边框*/
+
+/* mermaid 内容居中 */
+pre.mermaid {
+  text-align: center;
+}
+/* mermaid 内容居中 */

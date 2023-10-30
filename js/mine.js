@@ -13,13 +13,6 @@ window.onfocus = function () {
 }*/
 /* 切换窗口改变窗口标题 */
 
-/*设置 checkbox 为只读*/
-/* $(function() {
-    $("input[type='checkbox']").click(function() {
-        this.checked = !this.checked;
-    });
-}); */
-
 window.onload = function(){
   var inputs =  document.getElementsByTagName("input");
   for(var i = 0;i < inputs.length; i++){
