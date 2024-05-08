@@ -127,15 +127,6 @@ input[type="checkbox"]:checked + label::before {
 }
 /* checkbox 修改*/
 
-/* 文章图片增加边框*/
-#post img[class^=entered][class$=loaded]{
-	display: block;
-    border: 5px solid #ddd;
-    padding: 5px;
-    background: #fff;
-}
-/* 文章图片增加边框*/
-
 /* mermaid 内容居中 */
 pre.mermaid {
   text-align: center;
